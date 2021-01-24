@@ -1,5 +1,5 @@
 ## Download the cropped dataset images
-* [images.zip](https://drive.google.com/file/d/1z5XCOOi0-Yz5UTbmKm6egRgW5ukVrUvf) (355 MB)
+* [images.zip](https://drive.google.com/file/d/1z5XCOOi0-Yz5UTbmKm6egRgW5ukVrUvf) (347 MB)
 images must be downloaded into directory named "images"  at the root of the repository. If you execute the python script (download_images.py), this step will be performed for you automatically.
 
 ## FileList
