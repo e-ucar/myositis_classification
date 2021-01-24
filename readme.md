@@ -10,9 +10,9 @@ The original names of the files of the images and the class information they bel
    
 ## test_model.py
 It is the script to be run for the prediction process. Parameter List:
-optional arguments:
-  -h, --help            show this help message and exit
-  --model MODEL         'VGG16', 'VGG19', or 'ConcatedModel'.
-  --scenario SCENARIO   'S1', 'S2','S3' or 'S4'.
-  --fold FOLD           '1', '2','3','4' or '5'
+optional arguments:<br />
+  -h, --help            show this help message and exit. <br />
+  --model MODEL         'VGG16', 'VGG19', or 'ConcatedModel'. <br />
+  --scenario SCENARIO   'S1', 'S2','S3' or 'S4'. <br />
+  --fold FOLD           '1', '2','3','4' or '5'. <br />
   --imageName IMAGENAME 'Image Name'
