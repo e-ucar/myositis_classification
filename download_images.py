@@ -3,7 +3,7 @@ from zipfile import ZipFile
 import os
 
 IMG_DIRECTORY = "./"
-IMG_GD_ID = "1z5XCOOi0-Yz5UTbmKm6egRgW5ukVrUvf"
+IMG_GD_ID = "1dsUZKoUGQR78slnfUy1yC7cZN2SzyARF"
 IMG_ZIP_FILE = "./images.zip"
 
 def get_confirm_token(response):
